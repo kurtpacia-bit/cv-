@@ -1,5 +1,7 @@
 # Personal CV Web Page
 
+Repository: `cv-`
+
 ## Student Information
 
 - **Name:** Kurt John Philip Pacia
